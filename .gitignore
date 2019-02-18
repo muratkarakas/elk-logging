@@ -3,3 +3,5 @@
 /.DS_Store
 /.classpath
 /.project
+/.history
+.vscode/launch.json
